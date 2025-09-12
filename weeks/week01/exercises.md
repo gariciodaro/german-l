@@ -8,11 +8,11 @@ Beantworte kurz.
 
 ## B. Lückentext – Präsens & Trennbare Verben
 Setze die richtige Form ein.
-1. Ich ___ (aufstehen) um 6:30 Uhr ___ .
-2. Er ___ (einkaufen) jeden Samstag ___ .
-3. Wir ___ (anrufen) dich heute Abend ___ .
-4. Sie ___ (fernsehen) nicht oft ___ .
-5. Wann ___ du (anfangen) mit der Arbeit ___ ?
+1. Ich stehe (aufstehen) um 6:30 Uhr auf.
+2. Er kauft (einkaufen) jeden Samstag ein .
+3. Wir rufen (anrufen) dich heute Abend an .
+4. Sie sehen (fernsehen) nicht oft fern.
+5. Wann fangst du (anfangen) mit der Arbeit an ?
 
 Lösungsschlüssel (nach Kontrolle umdrehen):
 1. stehe ... auf  2. kauft ... ein  3. rufen ... an  4. sieht ... fern  5. fängst ... an
