@@ -2,9 +2,9 @@
 
 ## A. Aufwärmen (Retrieval)
 Beantworte kurz.
-1. Wann stehst du auf?
-2. Was machst du nach der Arbeit / Schule?
-3. Wie oft treibst du Sport?
+1. Wann stehst du auf? -> Ich stehe um 8 Uhr auf.
+2. Was machst du nach der Arbeit / Schule? -> Ich spiele manchmal Gitarre.
+3. Wie oft treibst du Sport? -> Ich treibe nie Sport.
 
 ## B. Lückentext – Präsens & Trennbare Verben
 Setze die richtige Form ein.
@@ -19,9 +19,14 @@ Lösungsschlüssel (nach Kontrolle umdrehen):
 
 ## C. Satzbau ordnen
 Ordne und schreibe korrekt.
-a) oft / ich / jogge / morgens -> ...
-b) spielt / er / abends / manchmal / Gitarre -> ...
-c) trefft / am Wochenende / ihr / Freunde / ? -> ...
+a) oft / ich / jogge / morgens -> ich jogge morgens oft
+b) spielt / er / abends / manchmal / Gitarre -> er spielt abends manchmal Gitarre
+c) trefft / am Wochenende / ihr / Freunde / ? -> ihr trefft am Wochenende Freunde ?
+[d) immer / sie / liest / abends / Bücher] -> sie liest abends immer Bücher
+[e) kocht / am Wochenende / er / gern / Pasta] -> er kocht am Wochenende gern Pasta
+[f) wir / gehen / manchmal / ins Kino / samstags] -> wir gehen samstags manchmal ins Kino
+[g) du / trinkst / morgens / Kaffee / nie] -> du trinkst morgens nie Kaffee
+[h) arbeitet / mein Vater / oft / im Garten / sonntags] -> mein Vater arbeitet sonntags oft im Garten
 
 Musterlösungen:
 a) Ich jogge morgens oft.
