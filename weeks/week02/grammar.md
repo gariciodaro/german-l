@@ -28,6 +28,11 @@ Form Dativ Pronomen: mir, dir, ihm/ihr, uns, euch, ihnen/Ihnen.
 ### 3. Pluralmuster (häufig)
 - -e: der Tag – die Tage
 - -er (mit Umlaut oft): das Kind – die Kinder
+```
+das Kind → die Kinder
+das Buch → die Bücher
+der Mann → die Männer
+```
 - -n / -en: die Banane – die Bananen
 - Umlaut + -e: der Apfel – die Äpfel
 Unregelmäßig lernen.

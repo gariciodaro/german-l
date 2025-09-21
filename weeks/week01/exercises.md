@@ -35,11 +35,11 @@ c) Trefft ihr am Wochenende Freunde?
 
 ## D. Partnerinterview
 Frage deinen Partner.
-1. Um wie viel Uhr frühstückst du?
-2. Was machst du nach 20 Uhr?
-3. Wie oft triffst du Freunde?
-4. Welches Hobby findest du interessant? Warum?
-Stichpunkte notieren → Mini-Text (6 Sätze) über den Partner schreiben.
+1. Um wie viel Uhr frühstückst du? -> Sie frühstuckt um 8 Uhr morgens.
+2. Was machst du nach 20 Uhr? -> Sie badet unser Baby und bringt es ins Bett.
+3. Wie oft triffst du Freunde? -> Sie hat keine Freunde.
+4. Welches Hobby findest du interessant? Warum? ->
+Stichpunkte notieren → Mini-Text (6 Sätze) über den Partner schreiben. -> Sie hört abends manchmal gern Musik, wiel es sehr entspannend ist. 
 
 ## E. Schreibaufgabe
 Titel: Mein Alltag

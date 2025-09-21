@@ -2,23 +2,37 @@
 
 ## A. Warm-up
 Nenne schnell 5 Obstsorten + 5 Gemüse.
++ Ich möchte schnell fünf Obstsorten nennen.
+    1. Die Banane
+    2. Die Birne
+    3. Die Orange
+    4. Der Apfel
+    5. Die Mango
+    6. Die Erdbeere    
++ Ich soll schnell fünf Gemüse nennen. 
+    1. Die Tomate
+    2. Die Gurke
+    3. Der Salat
+    4. Die Zwiebel
+    5. Die Karotte
+    6. Der Spinat
 
 ## B. Artikel & Akkusativ
 Ergänze den / die / das / einen / eine / ein.
-1. Ich kaufe ___ Apfel.
-2. Haben Sie ___ Milch?
-3. Wir brauchen ___ Käse und ___ Tomaten.
-4. Er nimmt ___ Brot und ___ Banane.
-5. Sie möchte ___ Liter Wasser.
+1. Ich kaufe  den Apfel.
+2. Haben Sie eine Milch?
+3. Wir brauchen den Käse und die Tomaten.
+4. Er nimmt das Brot und die Banane.
+5. Sie möchte einen Liter Wasser.
 
 Lösungen: 1. einen 2. die 3. den, die 4. das, eine 5. einen
 
 ## C. Plural bilden
-1. die Tomate → ...
-2. die Gurke → ...
-3. der Apfel → ...
-4. das Brot → ... (oft gleich)
-5. die Flasche → ...
+1. die Tomate → die Tomaten
+2. die Gurke →  die Gurken
+3. der Apfel →  die Äpfel
+4. das Brot →  das Brot
+5. die Flasche → die Flaschen
 
 Lösungen: Tomaten, Gurken, Äpfel, Brot, Flaschen
 
@@ -29,6 +43,14 @@ Setze in logische Reihenfolge.
 (c) Das macht 9 Euro 50.
 (d) Ich hätte gern 500 Gramm Käse.
 (e) Sonst noch etwas?
+
+- Guten Tag, war darf es sein?
+- Ich hätte gern 500 gram Käse
+- Sonst noch erwas?
+- Nein, danke. Das ist alles.
+- Das macht 9 Euro 50  
+
+
 Lösung: b – d – e – a – c
 
 ## E. Vorlieben ausdrücken
