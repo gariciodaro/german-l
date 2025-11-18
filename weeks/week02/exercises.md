@@ -19,7 +19,7 @@ Nenne schnell 5 Obstsorten + 5 Gemüse.
 
 ## B. Artikel & Akkusativ
 Ergänze den / die / das / einen / eine / ein.
-1. Ich kaufe  den Apfel.
+1. Ich kaufe einen Apfel.
 2. Haben Sie eine Milch?
 3. Wir brauchen den Käse und die Tomaten.
 4. Er nimmt das Brot und die Banane.
@@ -31,10 +31,10 @@ Lösungen: 1. einen 2. die 3. den, die 4. das, eine 5. einen
 1. die Tomate → die Tomaten
 2. die Gurke →  die Gurken
 3. der Apfel →  die Äpfel
-4. das Brot →  das Brot
+4. das Brot →  die Brote
 5. die Flasche → die Flaschen
 
-Lösungen: Tomaten, Gurken, Äpfel, Brot, Flaschen
+Lösungen: Tomaten, Gurken, Äpfel, Brote, Flaschen
 
 ## D. Dialogbausteine ordnen
 Setze in logische Reihenfolge.
@@ -55,17 +55,20 @@ Lösung: b – d – e – a – c
 
 ## E. Vorlieben ausdrücken
 Formuliere mit gern / lieber / am liebsten.
-1. Ich esse Pizza (gern). (Pasta besser) → ...
-2. Tee gut. Kaffee besser. (am liebsten: Wasser) → ...
+1. Ich esse Pizza (gern). (Pasta besser) → Ich esse gern Pizza, aber Ich esse lieber Pasta.
+2. Tee gut. Kaffee besser. (am liebsten: Wasser) → 
+    Ich trinke gern Tee,  Ich trinke lieber Kaffee, aber am libsten trinke Ich wasser. 
 Musterlösung: Ich esse gern Pizza, aber ich esse lieber Pasta. / Ich trinke gern Tee, ich trinke lieber Kaffee, aber am liebsten trinke ich Wasser.
 
 ## F. Fehlersuche
 Korrigiere.
-1. Ich kaufe der Käse.
-2. Ich mag nicht Brot.
-3. Zwei Banane bitte.
-4. Ich trinke lieber Tee als Kaffee? (Intonation)
-5. Was kostet der Tomaten?
+1. Ich kaufe der Käse -> Ich kaufe den Käse.
+2. Ich mag nicht Brot. -> Ich mag kein Brot.
+3. Zwei Banane bitte. -> Zwei Bananen bitte.
+4. Ich trinke lieber Tee als Kaffee? (Intonation) -> korrekt
+5. Was kostet der Tomaten? -> Was kostet die Tomanten?
+
+
 Lösungen: 1. den Käse 2. Ich mag kein Brot. 3. Zwei Bananen, bitte. 4. (Richtig als Aussagesatz) Ich trinke lieber Tee als Kaffee. 5. Was kosten die Tomaten?
 
 ## G. Rollenspielkarten (Beispiel)
